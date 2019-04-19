@@ -1,5 +1,5 @@
 # Electrostatics-Sim
-PhPhPhet-like simulation to replicate point charges and their movement with graphical visualizations of the electric fields, voltage, and potential energy.
+PhPhPhet-like simulation to replicate point charges and their movement with graphical visualizations of the electric fields, voltage, and potential energy. This project has been done in collaboration with Andrew Ji
 
 ## Instructions for Ph3et
 
