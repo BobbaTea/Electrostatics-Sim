@@ -268,7 +268,7 @@ function sideBar() {
     c.font = "15px Roboto Mono";
     c.fillStyle = "rgba(0, 0, 0, 0.7)"
     c.fillText("# of Charges: " + numCharges, 10, 50);
-    c.fillText("Disection Pin Toggle: " + disectionPin, 10, 80);
+    c.fillText("Dissection Pin Toggle: " + disectionPin, 10, 80);
     type = ((char == " =") ? 'Positive' : (char == " -") ? "Negative" : "N/A");
     c.fillText("Type of Charge: " + type, 10, 110);
     c.fillText("Field Lines: " + field, 10, 140);
