@@ -156,12 +156,12 @@ function animate() {
                 charges.splice(i, 1)
                 numCharges--
             }
-        }
+        }else{
         if (charges[i].x < 0 || charges[i].y < 0 || charges[i].x > canvas.width || charges[i].y > canvas.height) {
             charges.splice(i, 1)
             numCharges--
         }
-
+        }
 
 
 
